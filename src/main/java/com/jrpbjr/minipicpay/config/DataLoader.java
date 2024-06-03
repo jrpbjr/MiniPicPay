@@ -1,5 +1,7 @@
 package com.jrpbjr.minipicpay.config;
 
+import com.jrpbjr.minipicpay.entity.WalletType;
+import com.jrpbjr.minipicpay.repository.WalletTypeRepository;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.context.annotation.Configuration;
 
